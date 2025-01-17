@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project utilizes deep learning and transfer learning to classify dog breeds based on images. It is developed using **TensorFlow**, **Keras**, and **TensorFlow Hub**, with a pre-trained ResNet50 model fine-tuned for the specific task of dog breed classification. The project demonstrates how to leverage existing models for efficient training and deployment in a real-world computer vision problem.
+This project utilizes deep learning and transfer learning to classify dog breeds based on images. It is developed using **TensorFlow**, **Keras**, and **TensorFlow Hub**, with a pre-trained MobileNet model fine-tuned for the specific task of dog breed classification. The project demonstrates how to leverage existing models for efficient training and deployment in a real-world computer vision problem.
 
 This project was part of the **Complete A.I. & Machine Learning, Data Science Bootcamp** by **Zero To Mastery Academy**. It serves as a practical application of machine learning concepts, showcasing techniques in deep learning, transfer learning, and model evaluation.
 
